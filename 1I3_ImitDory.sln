@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1I3_ImitDory", "1I3_ImitDory.csproj", "{FAFA72CE-3A36-4D81-8BEC-388C12FA200B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAFA72CE-3A36-4D81-8BEC-388C12FA200B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAFA72CE-3A36-4D81-8BEC-388C12FA200B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAFA72CE-3A36-4D81-8BEC-388C12FA200B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAFA72CE-3A36-4D81-8BEC-388C12FA200B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57554E0C-E6F0-49C1-8DE6-51354AA5E7D8}
+	EndGlobalSection
+EndGlobal
